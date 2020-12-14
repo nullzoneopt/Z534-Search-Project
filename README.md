@@ -1,4 +1,4 @@
-# Collaborative Filtering and Review's Rating CLassifcation on  Yelp dataset
+# Collaborative Filtering and Review's Rating Classifcation on  Yelp dataset
 
 **ALS.ipynb** - Contains Matrix factorization with ALS using a different library
 
